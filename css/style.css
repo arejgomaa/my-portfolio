@@ -35,7 +35,7 @@ li {
     color: #fff;
     padding: 8px 20px ;
     font-size: 15;
-    border-radius: 2px;
+    border-radius: 4px;
     transition: all 0.3s ease;
 }
 
@@ -192,7 +192,7 @@ height: 100%;
     background-color: var(--gray-color);
     border-radius: 50%;
     color: white;
-    margin-right: 10px;
+    margin-right: 12px;
     margin-bottom: 20px;
     transition: all .3s ease;
 }
